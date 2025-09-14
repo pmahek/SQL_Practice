@@ -1,0 +1,4 @@
+SQL Practice on Titanic Dataset
+This project contains 10 SQL query exercises solved on the famous Titanic dataset, with the table titanic containing typical columns such as PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, and Embarked. The queries progress from beginner to intermediate and advanced levels, covering core SQL operations like SELECT, WHERE, ORDER BY, aggregation, GROUP BY, HAVING, subqueries, and CASE statements. The dataset is widely used for teaching and practicing data analysis and can be found in public sources such as Kaggle or as part of classic machine learning learning materials.
+
+Queries answered include basic selection, filtering, ordering, aggregation, conditional grouping, and complex joint-group analysis, providing a comprehensive practice resource for SQL learners. All queries are in the file Week2_SQL_Practice.sql.
